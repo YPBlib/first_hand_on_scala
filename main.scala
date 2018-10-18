@@ -28,3 +28,27 @@ for(i <- 0 to 2){
 
 val vi= Vector(1,2,3,4,5)
 
+// map reduce foreach
+
+val v = Vector(1,1,1).map(k => k+1)
+// v.foreach
+// v.reduce
+
+// yield
+
+// Any
+
+// class X
+// object X  // maybe static member in C++
+
+// extend inheritance
+
+// trait 组件
+
+// reflection
+
+
+
+
+
+
